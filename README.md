@@ -64,10 +64,10 @@ The Online Examination System for Employees is a web-based application developed
 
 
 ## Screenshots
-![Login Page]()
+![Login Page](assets/screenshot1.png)
 *Login interface for employees and administrators.*
 
-![Exam Interface](path/to/screenshot2.png)
+![Exam Interface](assets/screenshot2.png)
 *User-friendly examination interface for employees.*
 
 ## Contributing
